@@ -1,0 +1,9 @@
+---
+- name: Bootstrap Cisco device
+  hosts: switches
+  connection: local
+  gather_facts: False
+
+
+
+  
