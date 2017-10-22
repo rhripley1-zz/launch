@@ -1,0 +1,7 @@
+[routers]
+10.50.1.1
+
+[firewalls]
+
+[switches]
+10.50.64.2
